@@ -2,7 +2,9 @@ import React from 'react'
 
 function index() {
   return (
-    <div>index</div>
+    <>
+    <h1>now here you can add multiple tags</h1>
+    </>
   )
 }
 
